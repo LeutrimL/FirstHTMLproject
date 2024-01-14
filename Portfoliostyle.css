@@ -1,0 +1,96 @@
+.nav {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  padding-right: 15px;
+  padding-left: 15px;
+  background-color: rgb(60, 137, 253);
+  height: 40px;
+}
+.nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.user-info {
+  padding: 20px;
+}
+
+.Rubrik {
+  display: flex;
+  align-items: center;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  justify-content: center;
+  height: 10vh;
+  margin: 0;
+  font-size: 70px;
+}
+.instagramlink {
+  display: flex;
+  align-items: center;
+}
+.instagramlink img {
+  width: 30px;
+  height: auto;
+}
+.MailLink {
+  display: flex;
+  align-items: center;
+}
+.MailLink img {
+  width: 30px;
+  height: auto;
+}
+.facebooklink img {
+  width: 30px;
+  height: auto;
+}
+.linkendinlink img {
+  width: 30px;
+  height: auto;
+}
+
+.leutrimimg {
+  margin-left: 20px;
+  padding-left: 20px;
+  height: 500px;
+  width: auto;
+  margin-top: 20px;
+  padding-top: 20px;
+  max-width: 100%;
+}
+
+.Text1 {
+  width: 500px;
+  max-height: 100px;
+  padding-left: 20px;
+  margin: auto;
+  padding-left: 20px;
+  margin-left: 20px;
+  max-width: 500px;
+}
+.kompetens-info {
+  background-color: #f0f0f0;
+  padding: 20px;
+}
+
+.Kompetens {
+  max-width: 300px;
+  max-height: 300px;
+  margin: auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.container {
+  margin-left: 0px; /* Justera värdet efter behov */
+}
+
+.card {
+  margin-left: 500px;
+}
+.ovrig-info {
+  margin-left: 500px;
+}
+.footer-info {
+  padding: 20px;
+}
